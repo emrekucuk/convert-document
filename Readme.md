@@ -1,6 +1,6 @@
 # Readme
 
-## Convert Document to Html, Html to Pdf
+## Convert Word to Html, Html to Pdf
 
 ### Steps
 
